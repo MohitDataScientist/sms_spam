@@ -21,5 +21,7 @@ The final result of the project is a spam detector that can be used to classify 
 # Here are some specific examples of how the spam detector can be used:
 
 To filter out spam messages from your inbox.
+
 To identify spam messages in a large dataset.
+
 To develop new spam filtering algorithms.
